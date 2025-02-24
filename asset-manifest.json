@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/aantoonn.github.io/static/css/main.1dff9989.css",
-    "main.js": "/aantoonn.github.io/static/js/main.1ad2cdae.js",
-    "static/js/453.b05d8aa5.chunk.js": "/aantoonn.github.io/static/js/453.b05d8aa5.chunk.js",
-    "static/media/bg-light.png": "/aantoonn.github.io/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/cropped-portfolio.jpeg": "/aantoonn.github.io/static/media/cropped-portfolio.04ac9adb62ae222e16ef.jpeg",
-    "static/media/bg-dark.png": "/aantoonn.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/project_1.png": "/aantoonn.github.io/static/media/project_1.e9c8cb67a1ef74df464a.png",
-    "index.html": "/aantoonn.github.io/index.html",
-    "main.1dff9989.css.map": "/aantoonn.github.io/static/css/main.1dff9989.css.map",
-    "main.1ad2cdae.js.map": "/aantoonn.github.io/static/js/main.1ad2cdae.js.map",
-    "453.b05d8aa5.chunk.js.map": "/aantoonn.github.io/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/%C3%81antoonn.github.io/static/css/main.2be995ea.css",
+    "main.js": "/%C3%81antoonn.github.io/static/js/main.c5c95d03.js",
+    "static/js/453.b05d8aa5.chunk.js": "/%C3%81antoonn.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/%C3%81antoonn.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/cropped-portfolio.jpeg": "/%C3%81antoonn.github.io/static/media/cropped-portfolio.04ac9adb62ae222e16ef.jpeg",
+    "static/media/bg-dark.png": "/%C3%81antoonn.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/project_1.png": "/%C3%81antoonn.github.io/static/media/project_1.e9c8cb67a1ef74df464a.png",
+    "index.html": "/%C3%81antoonn.github.io/index.html",
+    "main.2be995ea.css.map": "/%C3%81antoonn.github.io/static/css/main.2be995ea.css.map",
+    "main.c5c95d03.js.map": "/%C3%81antoonn.github.io/static/js/main.c5c95d03.js.map",
+    "453.b05d8aa5.chunk.js.map": "/%C3%81antoonn.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dff9989.css",
-    "static/js/main.1ad2cdae.js"
+    "static/css/main.2be995ea.css",
+    "static/js/main.c5c95d03.js"
   ]
 }
