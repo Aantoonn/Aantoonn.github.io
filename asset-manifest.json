@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aantoonn.github.io/static/css/main.a0a56644.css",
-    "main.js": "/Aantoonn.github.io/static/js/main.b9313c8a.js",
+    "main.js": "/Aantoonn.github.io/static/js/main.1f69034c.js",
     "static/js/453.b05d8aa5.chunk.js": "/Aantoonn.github.io/static/js/453.b05d8aa5.chunk.js",
     "static/media/bg-light.png": "/Aantoonn.github.io/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/cropped-portfolio.jpeg": "/Aantoonn.github.io/static/media/cropped-portfolio.04ac9adb62ae222e16ef.jpeg",
@@ -9,11 +9,11 @@
     "static/media/project_1.png": "/Aantoonn.github.io/static/media/project_1.e9c8cb67a1ef74df464a.png",
     "index.html": "/Aantoonn.github.io/index.html",
     "main.a0a56644.css.map": "/Aantoonn.github.io/static/css/main.a0a56644.css.map",
-    "main.b9313c8a.js.map": "/Aantoonn.github.io/static/js/main.b9313c8a.js.map",
+    "main.1f69034c.js.map": "/Aantoonn.github.io/static/js/main.1f69034c.js.map",
     "453.b05d8aa5.chunk.js.map": "/Aantoonn.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0a56644.css",
-    "static/js/main.b9313c8a.js"
+    "static/js/main.1f69034c.js"
   ]
 }
